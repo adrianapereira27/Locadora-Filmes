@@ -1,0 +1,20 @@
+c:\users\moc\documents\visual studio 2013\Projects\MovieRentSystem\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+c:\users\moc\documents\visual studio 2013\Projects\MovieRentSystem\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+c:\users\moc\documents\visual studio 2013\Projects\MovieRentSystem\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+c:\users\moc\documents\visual studio 2013\Projects\MovieRentSystem\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+c:\users\moc\documents\visual studio 2013\Projects\MovieRentSystem\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+c:\users\moc\documents\visual studio 2013\Projects\MovieRentSystem\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+c:\users\moc\documents\visual studio 2013\Projects\MovieRentSystem\BusinessLogicalLayer\bin\Debug\DataTypeObject.dll
+c:\users\moc\documents\visual studio 2013\Projects\MovieRentSystem\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\moc\documents\visual studio 2013\Projects\MovieRentSystem\BusinessLogicalLayer\bin\Debug\DataTypeObject.pdb
+C:\Users\perei\source\repos\MovieRentSystemProf2\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\perei\source\repos\MovieRentSystemProf2\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\perei\source\repos\MovieRentSystemProf2\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\perei\source\repos\MovieRentSystemProf2\BusinessLogicalLayer\bin\Debug\DataTypeObject.dll
+C:\Users\perei\source\repos\MovieRentSystemProf2\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\perei\source\repos\MovieRentSystemProf2\BusinessLogicalLayer\bin\Debug\DataTypeObject.pdb
+C:\Users\perei\source\repos\MovieRentSystemProf2\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\perei\source\repos\MovieRentSystemProf2\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\perei\source\repos\MovieRentSystemProf2\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\perei\source\repos\MovieRentSystemProf2\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\perei\source\repos\MovieRentSystemProf2\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
